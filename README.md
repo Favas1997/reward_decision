@@ -116,7 +116,7 @@ pip / virtualenv
 
 
 ### Clone the Repository
-git clone <your-github-repo-url>
+git clone <https://github.com/Favas1997/reward_decision.git>
 cd reward-decision-service
 
 
