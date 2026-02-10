@@ -1,0 +1,27 @@
+policy_version: v1
+
+
+reward_weights:
+  XP: 0.6
+  CHECKOUT: 0.3
+  GOLD: 0.1
+
+
+xp_per_rupee: 1
+max_xp_per_txn: 500
+
+
+persona_multipliers:
+  NEW: 1.5
+  RETURNING: 1.2
+  POWER: 2.0
+
+
+daily_cac_cap:
+  NEW: 100
+  RETURNING: 200
+  POWER: 500
+
+feature_flags:
+  prefer_xp: false
+  cooldown_enabled: true
